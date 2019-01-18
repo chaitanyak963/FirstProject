@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         firstRecyclerview = findViewById(R.id.myrecylerview);
-    
+
         int[] movie_posters ={
           R.drawable.kgf,
                 R.drawable.aravindha,
